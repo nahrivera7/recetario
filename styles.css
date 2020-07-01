@@ -1,0 +1,25 @@
+body {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.title {
+  text-align: center;
+  color: #99D8D0;
+}
+
+img {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-title {
+  color: #FFBCBC;
+}
+
+.item {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
